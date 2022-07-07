@@ -4,9 +4,7 @@ This is a comment. Hey @Raj, I already made a change. We should reconcile our ch
 
 Here we are demonstrating a pull request. 
 
-I'm making this change on the main branch.
-
-
-I am making edits.
-
-I am making another edit.
+## Bullet Points
+* I'm making this change on the main branch.
+* I am making edits.
+* I am making another edit.
